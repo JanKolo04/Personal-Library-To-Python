@@ -4,10 +4,14 @@ Library to python with personal function to use in future
 ---
 
 ## How to run function from library
-```python
-#install library
+1. Before run functions from library you have to install library from example below
+### Install library
+```cmd
 pip install johnnyLibrary
-
+```
+2. Second step is import function from the chose one library
+### Run calIPv4 function from johnnyLibrary
+```python
 #import functino with calculator IPv4
 from johnnyLibrary import CallIPv4.kal_IP as calculatorIPv4
 
